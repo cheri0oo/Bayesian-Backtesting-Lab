@@ -1,6 +1,6 @@
 # Bayesian Backtest Robustness Lab
 
-An interactive research tool for testing whether a trading strategy's apparent edge is robust—or simply the product of favorable parameters and assumptions.
+An interactive research tool for testing whether a trading strategy's apparent edge is robust; or simply the product of favorable parameters and assumptions.
 
 The project combines a vectorized moving-average backtest, implementation stress testing, Bayesian alpha estimation, and interactive Plotly visualizations in a Streamlit dashboard.
 
