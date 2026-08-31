@@ -1,0 +1,12 @@
+# Python 3.14-compatible research and dashboard stack (August 2026)
+numpy>=2.3
+pandas>=2.3
+yfinance>=1.7
+plotly>=7.0
+pymc>=6.3
+arviz>=0.23
+streamlit>=1.62
+ipykernel>=7.0
+jupyter>=1.1
+pytest>=9.0
+hypothesis>=6.0
